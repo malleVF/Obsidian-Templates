@@ -1,7 +1,7 @@
 # Templates Supernote
  
 This is a collection of templates that I use in my note-taking app Obsidian (https://obsidian.md).
-For my templates for the Supernote E-Ink table I have published another repo on github. 
+For [my Supernote templates](https://github.com/malleVF/Supernote-Templates) I have published another repo on github. 
 
 I could use Obsidian on a Supernote device, but I have decided against it. Instead, I use a plugin in Obsidian to copy my Supernote notes to my Obsidian vault when it makes sense for me. On the other hand, I can import an Obsidian note as a PDF file to read it in Supernote or use it as a template. 
 
